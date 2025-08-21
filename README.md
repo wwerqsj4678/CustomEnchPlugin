@@ -1,5 +1,5 @@
 ## MapEditor plugin in NeteaseMC
-#The earliest fork of https://github.com/eggylan/GTMBPlugin [maybe first version:)]
+**The earliest fork of `https://github.com/eggylan/GTMBPlugin` [maybe first version:)]**
 
 # Old readme:
 
