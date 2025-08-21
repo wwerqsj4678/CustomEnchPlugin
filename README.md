@@ -1,6 +1,6 @@
-# MapEditor plugin in NeteaseMC
-The earliest fork of https://github.com/eggylan/GTMBPlugin [maybe first version:)]
-## Old readme:
+## MapEditor plugin in NeteaseMC
+#The earliest fork of https://github.com/eggylan/GTMBPlugin [maybe first version:)]
+# Old readme:
 # GTMBPlugin
 
 用于Minecraft（我的世界）中国版端游联机地图《联机大厅服务器模板》的配套附加包
